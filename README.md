@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/venika-sem/ICS2O-Space-Aliens)](https://repl.it/github/venika-sem/ICS2O-Space-Aliens)
 
-This website can be found at: [https://venika-sem.github.io/ICS2O-Space-Aliens](https://venika-sem.github.io/ICS2O-Space-Aliens)
+This site can be found at: [https://venika-sem.github.io/ICS2O-Space-Aliens](https://venika-sem.github.io/ICS2O-Space-Aliens)
