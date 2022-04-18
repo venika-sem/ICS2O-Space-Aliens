@@ -1,3 +1,8 @@
+/* Created by: Venika Sem
+ * Created on: Apr 2022
+ * This file contains the JS functions for index.html 
+*/
+
 /* global Phaser */
 
 const config = {
