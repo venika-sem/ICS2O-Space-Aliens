@@ -1,10 +1,14 @@
-/* Created by: Venika Sem
- * Created on: Apr 2022
- * This file contains the JS functions for index.html 
-*/
+/* global Phaser */
+
+// Copyright (c) 2022 Venika Sem All rights reserved
+//
+// Created by: Venika Sem
+// Created on: Apr 2022
+// This is the Phaser3 configuration file 
 
 /* global Phaser */
 
+//* Game scene */
 const config = {
   type: Phaser.AUTO,
   width: 1920,
