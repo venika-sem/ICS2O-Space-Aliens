@@ -22,7 +22,7 @@ class Splashscene extends Phaser.scene {
   create (data) {
   }
 
-  upate (time, delta) {
+  update (time, delta) {
   }
 }
 
