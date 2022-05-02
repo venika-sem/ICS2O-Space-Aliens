@@ -9,7 +9,7 @@
 /**
   * This class is the Menu Scene.
   */
-class Menuscene extends Phaser.Scene {
+class MenuScene extends Phaser.Scene {
   /**
    * This method is the constructor 
    */
