@@ -40,7 +40,7 @@ class GameScene extends Phaser.Scene {
     // create a group for the missiles
     this.missileGroup = this.physics.add.group()
 
-  update (time, delta) {
+  update (time, delta) {;
     // called 60 times a second, hopefully!
 
     const keyLeftObj = this.input.keyboard.addKey('LEFT')
