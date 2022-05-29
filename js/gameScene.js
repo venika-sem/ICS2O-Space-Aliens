@@ -55,6 +55,7 @@ class GameScene extends Phaser.Scene {
     //create a group for the missiles
     this.alienGroup = this.add.group()
     this.createAlien()
+  }
 
   update (time, delta) {
     // called 60 times a second, hopefully!
